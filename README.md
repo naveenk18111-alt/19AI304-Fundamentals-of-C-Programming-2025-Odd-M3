@@ -3,8 +3,6 @@
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
 
- https://github.com/Magitha001/19AI304-Fund
-
 # EX-11-EMI-CALCULATOR
 
 ## AIM
