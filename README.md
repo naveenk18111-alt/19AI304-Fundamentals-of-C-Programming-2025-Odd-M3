@@ -1,3 +1,10 @@
+# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
+# IAPR-3- Module 3 - FoC
+## 5. Implementation of one-dimensional array and multidimensional array.
+## 6. Implementation of string manipulation.
+
+ https://github.com/Magitha001/19AI304-Fund
+
 # EX-11-EMI-CALCULATOR
 
 ## AIM
